@@ -1,0 +1,8 @@
+{
+  "name": "user-avatars",
+  "version": "1.0.0",
+  "description": "A custom html element to create colored user avatars with initials or image with from a url or gravatar GUID.",
+  "main": "index.js",
+  "author": "Kevin Jantzer",
+  "license": "MIT"
+}
